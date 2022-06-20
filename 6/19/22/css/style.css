@@ -1,0 +1,35 @@
+/*Aligns the text to the center and changes the background color */
+body{
+  background-color: black;
+  color: rgb(30, 105, 105);
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h2{
+  color: rgb(30, 105, 105);
+ font-size: 3.5rem;
+ font-family: 'Sacramento', cursive;
+}
+
+h3{
+  padding-bottom: 10%;
+}
+
+a{
+  font-size: 1.5rem;
+}
+
+
+.github{
+  height: 10rem;
+  opacity: 10%;
+}
+
+.twitter{
+  height: 9rem;
+}
+
+.leetcode{
+  height: 9rem;
+}
